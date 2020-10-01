@@ -4,7 +4,7 @@ public class Powers extends Thread{
 
     private final long number;
 
-    Powers(long number){
+    public Powers(long number){
         this.number = number;
     }
 
